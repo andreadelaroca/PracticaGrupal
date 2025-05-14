@@ -1,3 +1,4 @@
-# PracticaGrupal
-14 de mayo del 2025
-Esto es una prueba de commit
+# Integrantes
+## Andrea de la Roca
+## Nazario Escoto
+## Carlos Aguirre
